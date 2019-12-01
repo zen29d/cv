@@ -12,6 +12,5 @@ from surf import surf
 surf(image)
 ```
 
-![Example]
-(master/../img/example.png)
+![Example](master/../img/example.png)
 
