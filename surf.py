@@ -29,5 +29,5 @@ def surf(image):
     ax.plot_surface(x, y, img ,rstride=1, cstride=1, cmap=plt.cm.gray)
     plt.show()
 
-if '__name__' != '__main__':
+if __name__ == "__main__":
     pass
